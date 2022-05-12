@@ -1,33 +1,23 @@
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
-  
-<h1 align="center">H E X i N</h1>
-<p align="center">
-<table>
-  <tr>
-     <p align="center"> <img src="![](https://komarev.com/ghpvc/?username=antonkomarev&label=PROFILE+VIEWS)" alt="HXN2"/> </p>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HXN2&show_icons=true&theme=radical"
-    </td>
-  </img>
-  <tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HXN2&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="HXN2" /></p> 
-  </tr>
-<h3 align="left">Socials:</h3>
+<h1 align="center">Hi , I'm HXN2</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hxn2&label=Profile%20views&color=ab5df9&style=flat" alt="hxn2" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxn2" alt="hxn2" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hxn.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
-<a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="HEXiN hxn.py << insta" height="30" width="40" /></a>
-
-
+<a href="https://instagram.com/hxn.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hxn.py" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
-<p align="left"> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hxn2&show_icons=true&theme=dark&locale=en&layout=compact" alt="hxn2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxn2&show_icons=true&theme=dark&locale=en" alt="hxn2" /></p>
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
- 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxn2&" alt="hxn2" /></p>
 
 
 

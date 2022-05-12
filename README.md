@@ -20,19 +20,20 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-  <a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
+<a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
 </p>
 
 <a href="" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/RiverIcon-Nothing.svg" alt="bash" width="40" 
 height="40" align="left"/> </a>  
 
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+
+
+ <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 
   
-<img 
-    
- 
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
 

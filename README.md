@@ -1,21 +1,21 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
   
-<h1 align="center">V E X</h1>
+<h1 align="center">HXN2</h1>
 <p align="center">
 <table>
   <tr>
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=0VEX&label=Profile%20views&color=0e75b6&style=flat" alt="0VEX"/> </p>
+     <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&label=Profile%20views&color=0e75b6&style=flat" alt="antonkomarev"/> </p>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=0VEX&show_icons=true&theme=radical"
     </td>
   </img>
   <tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0VEX&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="0VEX" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HXN2&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="HXN2" /></p> 
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/thegreatvex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0VEX" height="30" width="40" /></a>
-<a href="https://t.me/thegreatvx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="thegreatvx" height="30" width="40" /></a>
+<a href="https://instagram.com/hxn.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
+<a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="HXN2" height="30" width="40" /></a>
 
 
 

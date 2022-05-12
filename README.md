@@ -22,16 +22,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
 </p>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="cplusplus" width="40" height="40" align="left"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="left"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="bash" width="40" 
-height="40" align="left"/> </a>
-<a href="https://discord.js.org/#/" target="_blank" align="left"> <img src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" alt="bash" width="40" 
-height="40" align="left"/> </a>  
+
 <a href="" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/RiverIcon-Nothing.svg" alt="bash" width="40" 
 height="40" align="left"/> </a>  
-<a href="https://code.visualstudio.com" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="bash" width="40 "height="40" align="left"/> </a>
-</p>
+
  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm HXN2</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software developer, hacker and Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxn2&label=Profile%20views&color=ab5df9&style=flat" alt="hxn2" /> </p>
 
@@ -18,9 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxn2&show_icons=true&theme=dark&locale=en" alt="hxn2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxn2&" alt="hxn2" /></p>
-
-
-
-
-
- 

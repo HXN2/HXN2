@@ -4,7 +4,7 @@
 <p align="center">
 <table>
   <tr>
-     <p align="center"> <img src="![]https://komarev.com/ghpvc/?username=antonkomarev&color=blueviolet" alt="antonkomarev"/> </p>
+     <p align="center"> <img src="![](https://komarev.com/ghpvc/?username=antonkomarev&label=PROFILE+VIEWS)" alt="HXN2"/> </p>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HXN2&show_icons=true&theme=radical"
     </td>

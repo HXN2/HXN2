@@ -14,7 +14,7 @@
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/hxn.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
+<a href="https://instagram.com/hxn.ops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
 <a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="HEXiN1K" height="30" width="40" /></a>
 
 </p>

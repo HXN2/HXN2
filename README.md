@@ -32,15 +32,13 @@
 </a>
 </p>
  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<br>
-<br>  
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
 </p>
 </a> 
 </a>
 </a>
 </a> 
 </a>
-<a 
-href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
+<br>
+<br>  
+<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">

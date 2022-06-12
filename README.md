@@ -40,7 +40,7 @@
 </a>
 <br>
 <br>  
-<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="80 "height="80" align="left"/> </a>
 </p>
 </a> 
 </a>

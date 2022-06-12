@@ -38,9 +38,11 @@
 </a>
 </a> 
 </a>
-<br>
-<br>  
-<a href="https://visualstudio.microsoft.com/" target="_blank" align="right"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="right"/> </a>
+</a>  
+</a>  
+</a>
+</p>
+<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

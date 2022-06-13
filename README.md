@@ -51,7 +51,7 @@
 </a>
 </a>  
 </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png" alt="C#" width="40 "height="40" align="left"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> </a>
 </a>
 </p>
 </p>

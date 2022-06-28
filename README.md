@@ -42,7 +42,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.kali.org/" target="_blank" align="left"> <img src="https://i.stack.imgur.com/Gns38.png" alt="Kali Linux" width="40 "height="40" align="left"/> </a>
+<a href="https://www.kali.org/" target="_blank" align="left"> <img src="https://ih1.redbubble.net/image.746090126.8007/flat,750x1000,075,f.u4.jpg" alt="Kali Linux" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

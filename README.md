@@ -42,6 +42,17 @@
 </a>  
 </a>
 </p>
+<a href="https://www.kali.org/" target="_blank" align="left"> <img src="https://unix.stackexchange.com/questions/622807/kali-linux-2020-2-stuck-on-dragon-logo" alt="Kali Linux" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
 <a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

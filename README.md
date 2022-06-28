@@ -42,7 +42,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.kali.org/" target="_blank" align="left"> <img src="https://w7.pngwing.com/pngs/274/372/png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo.png" alt="Kali Linux" width="40 "height="40" align="left"/> </a>
+<a href="https://www.kali.org/" target="_blank" align="left"> <img src="https://forums.kali.org/images/misc/kali-2.0-logo-TM.png" alt="Kali Linux" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

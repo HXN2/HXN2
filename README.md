@@ -19,7 +19,7 @@
 
 </p>
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Systems:</h3>
 <a href="https://www.python.org" target="_blank" align="left"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

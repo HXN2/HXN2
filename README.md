@@ -15,12 +15,12 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/hxn.ops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
-<a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="HEXiN1K" height="30" width="40" /></a>
+<a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="HEXiN1K" height="30" width="40" /></a>
 
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
+<a href="https://www.python.org" target="_blank" align="left"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>
@@ -31,7 +31,7 @@
 </a>  
 </a>
 </p>
- <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="linux" width="40" height="40"/> </a> </p>
 </p>
 </a> 
 </a>

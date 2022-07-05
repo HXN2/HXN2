@@ -53,7 +53,7 @@
 </a>  
 </a>
 </p>
-<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="ViSUAL STUDiO" width="40 "height="40" align="left"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="ViSUAL STUDiO CoDE" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

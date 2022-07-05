@@ -53,7 +53,7 @@
 </a>  
 </a>
 </p>
-<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vb.net" width="40 "height="40" align="left"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" align="left"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="ViSUAL STUDiO" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>
@@ -62,7 +62,17 @@
 </a>
 </a>  
 </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> 
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
+<a href="https://www.php.net/" target="_blank" align="left"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" width="40 "height="40" align="left"/> 
+</a>
 </a>
 </p>
 </p>

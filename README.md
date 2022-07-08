@@ -80,6 +80,15 @@
 </a>
 </a>  
 </a>
+<a href="https://www.w3schools.com/CPP/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40 "height="40" align="left"/> 
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
 <a href="https://www.php.net/" target="_blank" align="left"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" width="40 "height="40" align="left"/> 
 </p>
 </a> 

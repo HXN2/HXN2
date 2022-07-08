@@ -81,6 +81,15 @@
 </a>  
 </a>
 <a href="https://www.php.net/" target="_blank" align="left"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" width="40 "height="40" align="left"/> 
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
+<a href="https://www.apachefriends.org/" target="_blank" align="left"> <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40 "height="40" align="left"/>
 </a>
 </a>
 </p>

@@ -53,6 +53,15 @@
 </a>  
 </a>
 </p>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyChArM CoMmNniTY" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
 <a href="https://code.visualstudio.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="ViSUAL STUDiO CoDE" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

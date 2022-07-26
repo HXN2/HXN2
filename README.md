@@ -44,7 +44,7 @@
 </a>  
 </a>
 </p>
- <p align="left"> <a href="https://www.opengroup.org/membership/forums/platform/unix" target="_blank" rel="noreferrer"> <img align="left" src="https://www.instana.com/media/01_INSTANA_UNIX.svg" alt="The UNiX" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://www.opengroup.org/membership/forums/platform/unix" target="_blank" rel="noreferrer"> <img align="left" src="https://pbs.twimg.com/media/FCyWPViXEAA3b3N?format=jpg&name=medium" alt="The UNiX" width="40" height="40"/> </a> </p>
 </p>
 </p>
 </a> 

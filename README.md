@@ -67,6 +67,28 @@
 </a>  
 </a>
 </p>
+<a href="https://www.caine-live.net/" target="_blank" align="left"> <img src="https://www.caine-live.net/page4/caine-logo-db5.png" alt="Caine OS" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
+<a href="https://www.demonlinux.com/" target="_blank" align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0-SMQ1VYRgoB_Sd7gZjUxnpvPejlIVgREQ&usqp=CAU" alt="Demon LinUx" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyChArM CoMmNniTY" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

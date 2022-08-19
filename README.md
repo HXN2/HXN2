@@ -89,6 +89,17 @@
 </a>  
 </a>
 </p>
+<a href="https://www.parrotsec.org/" target="_blank" align="left"> <img src="https://image.pngaaa.com/572/5689572-middle.png" alt="PaRroT Security OS" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyChArM CoMmNniTY" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

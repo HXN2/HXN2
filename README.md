@@ -67,7 +67,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.caine-live.net/" target="_blank" align="left"> <img src="https://www.caine-live.net/page4/caine-logo-db5.png" alt="Caine OS" width="40 "height="40" align="left"/> </a>
+<a href="https://www.parrotsec.org/" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1480967011572359176/3DKz0NHc_400x400.jpg" alt="PaRroT Security OS" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>
@@ -89,7 +89,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.parrotsec.org/" target="_blank" align="left"> <img src="https://image.pngaaa.com/572/5689572-middle.png" alt="PaRroT Security OS" width="40 "height="40" align="left"/> </a>
+<a href="https://www.caine-live.net/" target="_blank" align="left"> <img src="https://www.caine-live.net/page4/caine-logo-db5.png" alt="Caine OS" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

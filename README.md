@@ -17,6 +17,7 @@
 <a href="https://bio.link/ks1" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/pw4ONHmAWhdX2GU2VqwJ1MswAx8uFZJaTSzgO-zmuSe5jBTvghLFWBClj2wVNrUgrw=w240-h480-rw" alt="HXN2" height="30" width="40" /></a>
 <a href="https://instagram.com/hxn.ops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HXN2" height="30" width="40" /></a>
 <a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="HEXiN1K" height="30" width="40" /></a>
+<a href="https://hxn.sellix.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/66204773?s=200&v=4" alt="HXN2" height="30" width="40" /></a>
 
 </p>
   

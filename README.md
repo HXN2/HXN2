@@ -68,7 +68,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.parrotsec.org/" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1480967011572359176/3DKz0NHc_400x400.jpg" alt="PaRroT Security OS" width="40 "height="40" align="left"/> </a>
+<a href="https://blackarch.org/" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1164626251883143174/_0Fp841N_400x400.jpg" alt="BLaCk ArCh LiNuX" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

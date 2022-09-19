@@ -45,7 +45,7 @@
 </a>  
 </a>
 </p>
- <p align="left"> <a href="https://www.opengroup.org/membership/forums/platform/unix" target="_blank" rel="noreferrer"> <img align="left" src="https://pbs.twimg.com/media/FCyWPViXEAA3b3N?format=jpg&name=medium" alt="The UNiX" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://csilinux.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://csilinux.com/static/media/logoW.714b4bc5fdd09e0a24ed.png" alt="CSi LinUx" width="40" height="40"/> </a> </p>
 </p>
 </p>
 </a> 

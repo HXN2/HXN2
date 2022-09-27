@@ -33,6 +33,17 @@
 </a>  
 </a>
 </p>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> 
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="linux" width="40" height="40"/> </a> </p>
  </p>
 </p>
@@ -120,15 +131,6 @@
 </a>  
 </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="ViSUAL STUDiO CoMmUniTy" width="40 "height="40" align="left"/> </a>
-</p>
-</a> 
-</a>
-</a>
-</a> 
-</a>
-</a>  
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> 
 </a>
 </p>
 </p>

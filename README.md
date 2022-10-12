@@ -57,6 +57,19 @@
 </a>
 </p>
  <p align="left"> <a href="https://csilinux.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://csilinux.com/static/media/logoW.714b4bc5fdd09e0a24ed.png" alt="CSi LinUx" width="40" height="40"/> </a> </p>
+ </p>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
+ <a href="https://informationwarfarecenter.com/" target="_blank" align="left"> <img src="https://informationwarfarecenter.com/Images/IWC-Services-Logo.png" alt="InForMatiOn WaRfAre CeNteR
+" width="40 "height="40" align="left"/> </a>
 </p>
 </p>
 </a> 

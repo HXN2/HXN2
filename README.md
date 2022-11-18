@@ -1,10 +1,10 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
-  
+
 <h1 align="center">HXN2</h1>
 <p align="center">
 <table>
   <tr>
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&label=Profile%20views&color=0e75b6&style=flat" alt="antonkomarev"/> </p>
+     <p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="antonkomarev"/> </p>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HXN2&show_icons=true&theme=radical"
     </td>

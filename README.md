@@ -68,7 +68,7 @@
 </a>  
 </a>
 </p>
- <a href="https://informationwarfarecenter.com/" target="_blank" align="left"> <img src="https://informationwarfarecenter.com/Images/IWC-Services-Logo.png" alt="InForMatiOn WaRfAre CeNteR
+ <a href="https://osintframework.com/" target="_blank" align="left"> <img src="https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F987789535114350598%2FrhoaM2_s.jpg" alt="OsiNt FrAme WoRk
 " width="40 "height="40" align="left"/> </a>
 </p>
 </p>

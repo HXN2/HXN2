@@ -57,7 +57,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.python.org" target="_blank" align="left"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40 "height="40" align="left"/> </a>
+<a href="https://go.dev" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="GoLang" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

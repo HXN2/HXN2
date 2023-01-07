@@ -57,7 +57,7 @@
 </a>  
 </a>
 </p>
-<a href="https://go.dev" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="GoLang" width="40 "height="40" align="left"/> </a>
+<a href="https://isocpp.org/" target="_blank" align="left"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="CP+" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 
 </a>

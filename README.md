@@ -179,6 +179,24 @@
 </a>  
 </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="ViSUAL STUDiO CoMmUniTy" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" align="left"> <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="DoT .NeT" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" alt="XaMaRiN" width="40 "height="40" align="left"/> </a>
 </a>
 </p>
 </p>

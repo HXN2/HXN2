@@ -196,7 +196,7 @@
 </a>
 </a>  
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" alt="XaMaRiN" width="40 "height="40" align="left"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" align="left"> <img src="https://avatars.githubusercontent.com/u/790012?s=200&v=4" alt="XaMaRiN" width="40 "height="40" align="left"/> </a>
 </a>
 </p>
 </p>

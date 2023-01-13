@@ -6,11 +6,11 @@
   <tr>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github"/> </p>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HXN2&show_icons=true&theme=radical"
+      <img src="https://github-readme-stats.vercel.app/api?username=hxn2&show_icons=true&theme=radical"
     </td>
   </img>
   <tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HXN2&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="HXN2" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hxn2&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="HXN2" /></p> 
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">

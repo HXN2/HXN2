@@ -57,17 +57,6 @@
 </a>  
 </a>
 </p>
-<a href="https://isocpp.org/" target="_blank" align="left"> <img src="https://avatars.githubusercontent.com/u/59276?s=200&v=4" alt="CP+" width="40 "height="40" align="left"/> </a>
-</p>
-</a> 
-</a>
-</a>
-</a> 
-</a>
-</a>  
-</a>  
-</a>
-</p>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40 "height="40" align="left"/> 
 </p>
 </a> 
@@ -197,15 +186,6 @@
 </a>  
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" align="left"> <img src="https://avatars.githubusercontent.com/u/790012?s=200&v=4" alt="XaMaRiN" width="40 "height="40" align="left"/> </a>
-</a>
-</p>
-</p>
-</a> 
-</a>
-</a>
-</a> 
-</a>
-</p>
 </p>
 </a> 
 </a>

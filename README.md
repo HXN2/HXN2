@@ -41,7 +41,7 @@
 </a>  
 </a>  
 </a>
-<a href="" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1024284022552309761/DYexANJg_400x400.jpg" alt="HXN2" height="40" width="40" /></a>
+<a href="https://payhip.com/x2" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1024284022552309761/DYexANJg_400x400.jpg" alt="HXN2" height="40" width="40" /></a>
 
 </p>
   

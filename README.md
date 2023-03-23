@@ -149,6 +149,17 @@
 </a>  
 </a>
 </p>
+<a href="https://rufus.ie" target="_blank" align="left"> <img src="https://rufus.ie/pics/rufus-128.png" alt="RuFuS UsB BOoTaBLe" width="40 "height="40" align="left"/> </a>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
 <a href="https://www.iobit.com/" target="_blank" align="left"> <img src="https://pbs.twimg.com/profile_images/1562763543014912004/Jjt5zK22_400x400.jpg" alt="iOBitSoFT" width="40 "height="40" align="left"/> </a>
 </p>
 </a> 

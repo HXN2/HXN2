@@ -33,15 +33,6 @@
 </a>  
 </a>
 <a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="HEXiN1K" height="40" width="40" /></a>
-</a> 
-</a>
-</a>
-</a> 
-</a>
-</a>  
-</a>  
-</a>
-<a href="""Your Link Site""" target="blank"><img align="center" src="""Your image link""" alt="HXN2" height="40" width="40" /></a>
 
 </p>
   

@@ -69,6 +69,17 @@
 </a>  
 </a>
 </p>
+<a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://www.kindpng.com/picc/m/171-1718034_logo-de-java-script-hd-png-download.png" alt="JS" width="40 "height="40" align="left"/>
+</p>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+</p>
  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="linux" width="40" height="40"/> </a> </p>
 </p>
 </p>

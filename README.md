@@ -33,6 +33,16 @@
 </a>  
 </a>
 <a href="https://t.me/HEXiN1K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="HEXiN1K" height="40" width="40" /></a>
+</a> 
+</a>
+</a>
+</a> 
+</a>
+</a>  
+</a>  
+</a>
+<a href="https://addons.mozilla.org/ar/firefox/user/17914754/" target="blank"><img align="center" src="https://davidwalsh.name/demo/firefox-logo-nightly.png" alt="FireFox ADD-Ons" height="45" width="45" /></a>
+
 
 </p>
   

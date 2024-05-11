@@ -69,7 +69,7 @@
 </a>  
 </a>
 </p>
-<a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://www.kindpng.com/picc/m/171-1718034_logo-de-java-script-hd-png-download.png" alt="JS" width="40 "height="40" align="left"/>
+<a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="40 "height="40" align="left"/>
 </p>
 </a> 
 </a>

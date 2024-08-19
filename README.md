@@ -14,7 +14,7 @@
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linktr.ee/Hx2N" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/HwrgaarzTEOljjhlbkV5_Ag7K55YMvWAE9Ul4" alt="Hx2N Accounts" height="40" width="40" /></a>
+<a href="https://linktr.ee/Hx2N" target="blank"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5e17348b35cb550001414082/0x0.png" alt="Hx2N Accounts" height="40" width="40" /></a>
 </a> 
 </a>
 </a>
@@ -41,7 +41,7 @@
 </a>  
 </a>  
 </a>
-<a href="https://addons.mozilla.org/ar/firefox/user/17914754/" target="blank"><img align="center" src="https://davidwalsh.name/demo/firefox-logo-nightly.png" alt="FireFox ADD-Ons" height="45" width="45" /></a>
+
 
 
 </p>

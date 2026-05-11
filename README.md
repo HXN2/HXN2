@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>S7TN - Sto - StLh</h1>
+  <h1>S7TN · STo - StLh - SaTw</h1>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>

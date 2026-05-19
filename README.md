@@ -24,8 +24,8 @@
 
   <h3>الحسابات - Accounts</h3>
   <p>
-    <a href="https://linktr.ee/S7TN" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linktree.png" alt="Linktree" width="45" height="45"/>
+    <a href="https://guns.lol/StLh" target="_blank">
+      <img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt="Linktree" width="45" height="45"/>
     </a>
     <a href="https://routinehub.co/user/StLh" target="_blank">
       <img src="https://github.com/RoutineHub.png" alt="RoutineHub • StLh" width="45" height="45" style="border-radius: 10px;"/>
